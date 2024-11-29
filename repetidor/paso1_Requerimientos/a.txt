@@ -1,0 +1,39 @@
+Introducion:
+Para la intalación de un repetidor en tu casa o ambiente en la que desees ubicar primero debemos tomar 
+en cuenta cosas importantes como:
+
+    Requerimientos
+    >Módem: WAN 
+        El Módem es un dispositivo  de red que transforma los datos digitales en señales analogicas
+        (modulación) y viceversa(demodulación)
+        permitiendo que la tranmision de datos a traves de lineas de cable.
+        ¿Por qué WAN?
+        El modem conecta la red de area extensa  con la red local de tu casa.
+
+
+
+    >Router_wifi: LAN
+        el router es un dispositivo de red local capaz de compartir señal wifi o directa por cable  utp
+        a tus dispositivos IoT.
+        ¿Por qué LAN?
+        por que la señal que se obtiene una vez conectas tu modem con tu router es local solo en un 
+        derterminada area siendo LAN la red que menos area puede abarcar.
+
+
+
+    >Cable UTP de intenet.
+        el cable UTP nos servirá para poder establecer conexion entre el modem y el router
+            > su funcion es compartir el ancho de banda que se determine en la configuracion por el usuario
+
+
+
+    >Computadora
+         para la lectura y configuracion de conexion entre los dispositivos de red
+
+
+
+    >Celular
+        validacion de establecimiento de red wifi exitosa.
+
+    >soporte para modem y Router_wifi
+        los dispositivos de red deben ubicarse en un lugar seguro

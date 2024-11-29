@@ -1,0 +1,32 @@
+Introducion:
+    Como referencia de un caso de uso de aplicacion de repetidor de red, usaré 
+    mi caso como evaluacion.
+
+
+evaluacion:
+    situacion significativa ---->   "zidany debe mover su equipo de computo a otra area de su casa;
+                                    el tenía una conexion de tipo directa de modem a dispositivo IoT (Computadora)
+                                    mediante un cable UTP, Cuando Zidany mueva su Computadora a otra area el cable
+                                    ya servirá pues su longitud es medida, Zidany debe buscar la manera de poner tener acceso
+                                    a internet desde un area mas alejada del modem"
+                                
+
+    posibles soluciones:
+
+        >Utilizar un cable UTP mas grande y recibir internet directo
+
+        >utilizar un router que permita no solo tener internet cableado sino que tambien el 
+        otro ambiente en donde se encuentra su Computadora tenga acceso a wifi y rapido
+
+            Cómo hace eso?
+
+                -representacion de sistemna de cableado:
+
+                /modem/<--------cable UTP-------->(Router_wifi)<-------cable UTP-------->████ PC ███
+                
+        >utilizar solo el router y un cable UTP
+            sin embargo esto resultaria con una señal baja, debido a que se intenta conectar el router con el moden_wifi mediante wifi
+            de manera que el router comparta intenet mediante un solo cable UTP pero este debera ir en un puerto de enlace WAN del dispositivo
+
+            modem  >...........señal wifi............>(Router_wifi)<-----------cable UTP------------->████ PC ███
+        
