@@ -1,4 +1,4 @@
-Introducion:
+Introdución:
 Para la intalación de un repetidor en tu casa o ambiente en la que desees ubicar primero debemos tomar 
 en cuenta cosas importantes como:
 
@@ -36,4 +36,4 @@ en cuenta cosas importantes como:
         validacion de establecimiento de red wifi exitosa.
 
     >soporte para modem y Router_wifi
-        los dispositivos de red deben ubicarse en un lugar seguro
+        los dispositivos de red deben ubicarse en un lugar seguro.

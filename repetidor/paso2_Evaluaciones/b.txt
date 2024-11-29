@@ -1,9 +1,9 @@
-Introducion:
+Introdución:
     Como referencia de un caso de uso de aplicacion de repetidor de red, usaré 
     mi caso como evaluacion.
 
 
-evaluacion:
+evaluación:
     situacion significativa ---->   "zidany debe mover su equipo de computo a otra area de su casa;
                                     el tenía una conexion de tipo directa de modem a dispositivo IoT (Computadora)
                                     mediante un cable UTP, Cuando Zidany mueva su Computadora a otra area el cable
